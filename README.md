@@ -1,4 +1,4 @@
-#PopX-App
+PopX-App
 
 Features
 ⚡ Built with Vite for fast development and builds
