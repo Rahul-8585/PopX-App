@@ -1,8 +1,4 @@
-# Vite React + TypeScript Authentication Project
 
-A simple React + TypeScript application built with **Vite**, featuring user authentication and redirect to user dashboard upon login. The project is fully configured for deployment on **Vercel**.
-
----
 
 ## Features
 
